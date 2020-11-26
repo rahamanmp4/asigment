@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+}
+
+
+ .m{
+ 	width: 400px;
+	position: relative;
+ 	text-align: center;
+ 	margin: 10px auto;
+  background-color: #F3F7F6;
+  }
+  .m img{
+  
+  	margin-top: 0px;
+  	
+  }
+  .m input{
+    border: 1px solid gray;
+  	width: 100%;
+  	font-size: 25px;
+  	border-radius: 11px;
+    background-color: transparent;
+    outline: none;
+  	
+  }
+  i{
+  	position: absolute;
+  	left:5px;
+    color: gray;
+  	top: 0;
+  	bottom: 10;
+  	margin: 181px auto;
+  	display: block;
+
+  }
+  .m p{
+    font-size: 19px;
+  }
+
+  .m button{
+    margin: 18px;
+  	padding: 7px 10px;
+    color: black;
+    border-radius: 3px;
+   background-color: transparent;
+   outline: none;
+   border: 1px solid #ccc;
+ 
+  }
+
+ 
+  body{
+    background-color: #F3F7F6;
+  }

@@ -1,0 +1,101 @@
+.kk{
+	width: 200px;
+	height: 200px;
+	background-color:  white;
+	border-left: 100px solid red;
+	border-right: 100px solid red;
+	margin: 40px auto;
+	text-align: center;
+}
+.kk img{
+	width: 100px;
+	margin: 50px auto;
+}
+h2{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.r{
+	width: 500px;
+	height: 100px;
+	background-color: red;
+	border-top: 100px solid black;
+	border-bottom: 100px solid gold;
+	margin: 40px auto;
+}
+h1{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+.g{
+	width: 400px;
+	height: 200px;
+	background-color: red;
+	margin: 40px auto;
+	text-align: center;
+}
+.g img{
+	width: 180px;
+	margin: 10px auto;
+}
+h3{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+h4{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.sol{
+	width: 400px;
+	height: 300px;
+	border-left: 100px solid red;
+	margin: 0px auto;
+}
+.e{
+	width: 400px;
+	height: 100px;
+	background-color: 100px solid white;
+	border-top: 100px solid green;
+	border-bottom: 100px solid black;
+}
+
+
+h5{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+
+}
+.rahaman{
+	width: 400px;
+	height: 100px;
+	background-color: white;
+	border-left: 70px solid black;
+	border-top: 100px solid green;
+	border-bottom: 100px solid red;
+	margin: 100px auto;
+	boder: 10px solid red;
+
+
+
+}
+
+h6{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+

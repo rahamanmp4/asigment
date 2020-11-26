@@ -1,0 +1,137 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.mm{
+	text-align: center;
+}
+.m{
+	width: 300px;
+	margin: 0px auto;
+	text-align: center;
+	display: inline-block;
+}
+.m img{
+	width: 200px;
+	border-radius: 50%;
+	margin: 0px auto;
+	text-align: center;
+}
+.m h2{
+	width: 300px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	transition: 3s;
+	text-align: center;
+	margin: 0px auto;
+	background:linear-gradient(yellow,green);
+	font-family: HARDCORE POSTER;
+}
+
+
+.m h2:hover{
+	width: 200px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px auto;
+	background: linear-gradient(yellow,green);
+	color: red;
+
+}
+.m p{
+	color: black;
+	background: linear-gradient(yellow,green);
+font-family: HARDCORE POSTER;
+
+}
+body{
+	background: linear-gradient(green,white);
+}
+
+
+.n{
+	width: 300px;
+	margin: 0px auto;
+	text-align: center;
+	display: inline-block;}
+.n img{
+	width: 200px;
+	border-radius: 50%;
+	margin: 0px auto;
+	text-align: center;
+}
+.n h2{
+	width: 300px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	transition: 3s;
+	text-align: center;
+	margin: 0px auto;
+	background:linear-gradient(yellow,green);
+	font-family: HARDCORE POSTER;
+}
+
+
+.n h2:hover{
+	width: 200px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px auto;
+	background: linear-gradient(yellow,green);
+	color: red;
+
+}
+.n p{
+	color: black;
+	background: linear-gradient(yellow,green);
+font-family: HARDCORE POSTER;
+
+}
+.y{
+	width: 300px;
+	margin: 0px auto;
+	text-align: center;
+	display: inline-block;}
+.y img{
+	width: 200px;
+	border-radius: 50%;
+	margin: 0px auto;
+	text-align: center;
+}
+.y h2{
+	width: 300px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	transition: 3s;
+	text-align: center;
+	margin: 0px auto;
+	background:linear-gradient(yellow,green);
+	font-family: HARDCORE POSTER;
+	
+}
+
+
+.y h2:hover{
+	width: 200px;
+	height: 50px;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px auto;
+	background: linear-gradient(yellow,green);
+	color: red;
+
+}
+.y p{
+	color: black;
+	background: linear-gradient(yellow,green);
+font-family: HARDCORE POSTER;
+
+}

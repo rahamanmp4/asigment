@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.oo{
+	width: 300px;
+	margin: 20px auto;
+	text-align: center;
+	
+}
+.oo img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: 0px auto 0px;
+}
+.oo p{
+	color: black;
+	font-family: Encient German Gothic;
+	margin-bottom: 20px;
+
+}
+
+
+.oo{
+	font-family: Algerian;
+}
+
+body{
+	background-color: yellowgreen;
+}
+											
